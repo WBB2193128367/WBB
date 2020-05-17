@@ -1,1 +1,1 @@
-# WBB
+print("niaho")
